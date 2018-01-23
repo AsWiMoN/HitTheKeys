@@ -1,0 +1,10 @@
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\bin\Debug\PechatMashinka_str209.exe.config
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\bin\Debug\PechatMashinka_str209.exe
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\bin\Debug\PechatMashinka_str209.pdb
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\obj\Debug\PechatMashinka_str209.csprojResolveAssemblyReference.cache
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\obj\Debug\PechatMashinka_str209.Form1.resources
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\obj\Debug\PechatMashinka_str209.Properties.Resources.resources
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\obj\Debug\PechatMashinka_str209.csproj.GenerateResource.Cache
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\obj\Debug\PechatMashinka_str209.csproj.CoreCompileInputs.cache
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\obj\Debug\PechatMashinka_str209.exe
+D:\z_tp\C_sharp\PechatMashinka_str209\PechatMashinka_str209\obj\Debug\PechatMashinka_str209.pdb
